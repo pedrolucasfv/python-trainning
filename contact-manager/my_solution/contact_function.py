@@ -23,6 +23,11 @@ def search_contact(contact_list):
             return 'Contato encontrado!'
     
 def list_contacts(contact_list):
+    for contact in contact_list:
+        print(f"Nome: {contact['name']}")
+        print(f"Telefone: {contact['phone']}")
+        print(f"Email: {contact['email']}")
+        print('\n')
     return contact_list
 def edit_contact(contact_list):
     print('Digite o nome do contato que deseja editar')

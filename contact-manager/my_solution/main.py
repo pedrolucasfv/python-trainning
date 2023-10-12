@@ -19,13 +19,14 @@ def contact_manager():
             '4': contact_function.edit_contact,
             '5': contact_function.delete_contact
         }
-        
+        if(userOption == '0'):
+            break
         message = options[userOption](contact_list)
         
         print(message)
-        if(userOption == '0'):
-            break
+       
         
 if __name__ == "__main__":
     print("Bem vindo ao sistema de gerenciamento de contatos")
     contact_manager()
+    print('Volte sempre!')
