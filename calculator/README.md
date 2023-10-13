@@ -17,6 +17,11 @@ Esta calculadora suporta as operações de adição, subtração, multiplicaçã
 
 O projeto inicial estava bem estruturado, com uma abordagem direta para identificar e realizar operações matemáticas. No entanto, faltava modularização e algumas melhorias na organização do código.
 
+## 📝 Sugestões e Pontos de Atenção
+
+- **Validações**: Garanta que a entrada do usuário seja correta e que erros, como divisão por zero, sejam tratados adequadamente.
+- **Refatoração**: Considere a utilização de funções adicionais ou classes para modularizar ainda mais o código e torná-lo mais legível.
+
 ## 🎯 Versão Otimizada
 
 Com base no feedback e análise, desenvolveu-se uma versão otimizada:

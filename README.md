@@ -4,11 +4,10 @@ Bem-vindo ao meu repositório de aprendizado em Python! Aqui, eu compartilho min
 
 ## 📜 Índice
 
-- [Random Number Guessing Game](./RandomGame/README.md)
-- [Contact Manager](./ContactManager/README.md)
-- [Simple Python Calculator](./Calculator/README.md)
+- [Random Number Guessing Game](https://github.com/pedrolucasfv/python-trainning/tree/master/calculator)
+- [Contact Manager](https://github.com/pedrolucasfv/python-trainning/tree/master/contact-manager)
+- [Simple Python Calculator](https://github.com/pedrolucasfv/python-trainning/tree/master/random-game)
 
-(Adicione mais links conforme você adicionar mais projetos)
 
 ## 💡 Objetivo
 
