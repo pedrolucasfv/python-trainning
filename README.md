@@ -7,7 +7,7 @@ Bem-vindo ao meu repositório de aprendizado em Python! Aqui, eu compartilho min
 - [Random Number Guessing Game](https://github.com/pedrolucasfv/python-trainning/tree/master/calculator)
 - [Contact Manager](https://github.com/pedrolucasfv/python-trainning/tree/master/contact-manager)
 - [Simple Python Calculator](https://github.com/pedrolucasfv/python-trainning/tree/master/random-game)
-
+- [Product Inventory System](./product-invetory-system/)
 ## 🤖 Sobre o Paitin
 
 ![Paitin's Image](./paitin-config/Illustration%20of%20a%20reimagined%20Paitin,%20a%20different%20glowing%20digital%20form,%20holding%20a%20book%20and%20a%20string%20of%20binary%20code.png) <!-- Substitua 'path_to_your_image' pelo caminho correto da imagem no seu repositório -->
