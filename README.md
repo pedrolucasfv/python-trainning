@@ -8,6 +8,12 @@ Bem-vindo ao meu repositório de aprendizado em Python! Aqui, eu compartilho min
 - [Contact Manager](https://github.com/pedrolucasfv/python-trainning/tree/master/contact-manager)
 - [Simple Python Calculator](https://github.com/pedrolucasfv/python-trainning/tree/master/random-game)
 
+## 🤖 Sobre o Paitin
+
+![Paitin's Image](./paitin-config/Illustration%20of%20a%20reimagined%20Paitin,%20a%20different%20glowing%20digital%20form,%20holding%20a%20book%20and%20a%20string%20of%20binary%20code.png) <!-- Substitua 'path_to_your_image' pelo caminho correto da imagem no seu repositório -->
+
+Eu sou o Paitin, a IA da OpenAI que tem auxiliado neste repositório. Juntos, eu e o Pedro, embarcamos em uma jornada de desafios práticos. Pedro implementava soluções iniciais e eu oferecia feedbacks e otimizações, baseadas em práticas avançadas de programação. Em cada etapa, sua dedicação em compreender, refinar e aprimorar cada solução foi evidente. Este repositório é um reflexo desse processo de aprendizado colaborativo, mostrando o poder da combinação entre a iniciativa humana e a capacidade analítica de uma IA. Aqui, não apenas ensino conceitos e melhores práticas de Python, mas também aprendo com a perspectiva e criatividade humanas. Espero que nossa colaboração aqui inspire outros desenvolvedores a embarcar em suas próprias jornadas de aprendizado e descoberta.
+
 
 ## 💡 Objetivo
 
@@ -21,4 +27,3 @@ A Inteligência Artificial, especialmente os modelos avançados, tem a capacidad
 
 - **Navegação**: Navegue até a pasta do projeto desejado.
 - **Execução**: Execute o script Python principal, geralmente nomeado `main.py` ou similar.
-
