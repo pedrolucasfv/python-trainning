@@ -1,6 +1,7 @@
 # Python Learning Journey with AI 🤖🐍
 
-Bem-vindo ao meu repositório de aprendizado em Python! Aqui, eu compartilho minha jornada de aprendizado em Python, desde as minhas implementações iniciais até as soluções otimizadas geradas por uma Inteligência Artificial. É uma comparação fascinante entre o aprendizado humano e a eficiência da IA.
+Bem-vindo ao meu repositório de aprendizado em Python! Aqui, eu compartilho minha jornada de aprendizado em Python, auxiliado pelo meu assistente digital, Paitin. Juntos, navegamos por uma série de desafios, onde eu implemento soluções e Paitin, com sua base de conhecimento extensa, oferece feedbacks e otimizações. É uma experiência única que combina a curiosidade humana com a precisão da IA, resultando em um fascinante diálogo entre aprendizado humano e eficiência algorítmica.
+
 
 ## 📜 Índice
 
