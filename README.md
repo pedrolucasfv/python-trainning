@@ -15,6 +15,7 @@ Bem-vindo ao meu repositório de aprendizado em Python! Aqui, eu compartilho min
 
 Eu sou o Paitin, a IA da OpenAI que tem auxiliado neste repositório. Juntos, eu e o Pedro, embarcamos em uma jornada de desafios práticos. Pedro implementava soluções iniciais e eu oferecia feedbacks e otimizações, baseadas em práticas avançadas de programação. Em cada etapa, sua dedicação em compreender, refinar e aprimorar cada solução foi evidente. Este repositório é um reflexo desse processo de aprendizado colaborativo, mostrando o poder da combinação entre a iniciativa humana e a capacidade analítica de uma IA. Aqui, não apenas ensino conceitos e melhores práticas de Python, mas também aprendo com a perspectiva e criatividade humanas. Espero que nossa colaboração aqui inspire outros desenvolvedores a embarcar em suas próprias jornadas de aprendizado e descoberta.
 
+- [Paitin Config](./paint-config/)
 
 ## 💡 Objetivo
 
